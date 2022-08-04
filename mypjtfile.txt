@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi hello this is balu and muni
+=======
+hi hello 
+this is remote modification
+>>>>>>> a86eb235506b13f904974a4d474bc43bd23ff0e5
